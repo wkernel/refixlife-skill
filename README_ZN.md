@@ -14,6 +14,7 @@
 | [cybernetics](skills/cybernetics.md) | 建立反馈迭代系统，解决总是做不好的问题 |
 | [one-day-reset](skills/one-day-reset.md) | 用一天做深度复盘，重新规划人生方向 |
 | [gamification](skills/gamification.md) | 把人生变成游戏，解决坚持不下来问题 |
+| [refixlife](skills/refixlife.md) | 智能技能路由器，根据用户描述的问题状态自动匹配并触发对应的反思行动技能 |
 
 ### 快速判断该用哪个
 
@@ -94,12 +95,6 @@ identity-level → anti-vision → mind-stage → cybernetics → one-day-reset 
 ├── examples/                  # 使用示例
 │   ├──减肥案例.md
 │   └──学英语案例.md
-├── docs/                      # 原始文档
-│   └── BOOK_OVERVIEW.md
-└── candidates/                # 审计轨迹
-    ├── frameworks.md
-    ├── principles.md
-    └── ...
 ```
 
 ## 核心方法论

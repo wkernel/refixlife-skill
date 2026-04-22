@@ -14,6 +14,7 @@ How to fix your entire life in one day with 6 executable skills that help you tr
 | [cybernetics](skills/cybernetics.md) | Establish feedback iteration system, solving the problem of not doing well consistently |
 | [one-day-reset](skills/one-day-reset.md) | Use one day for deep reflection, re-planning life direction |
 | [gamification](skills/gamification.md) | Turn life into a game, solving the problem of not being able to persist |
+| [refixlife](skills/refixlife.md) | Intelligent skill router, automatically matches and triggers corresponding action thinking skills based on user's problem state description |
 
 ### Quickly Determine Which to Use
 
@@ -23,6 +24,7 @@ Working hard but no results → identity-level + cybernetics
 Want complete change → one-day-reset
 Can't persist → gamification
 Confused about who you are → mind-stage
+Not sure which to use → refixlife (intelligent router)
 ```
 
 ## Usage Examples
@@ -94,12 +96,6 @@ identity-level → anti-vision → mind-stage → cybernetics → one-day-reset 
 ├── examples/                  # Usage examples
 │   ├── weight_loss_case.md
 │   └── english_learning_case.md
-├── docs/                      # Original documents
-│   └── BOOK_OVERVIEW.md
-└── candidates/                # Audit trail
-    ├── frameworks.md
-    ├── principles.md
-    └── ...
 ```
 
 ## Core Methodology

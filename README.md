@@ -2,6 +2,8 @@
 
 如何在一天内重塑你的人生，6 个可执行 skills，帮助你真正改变人生而非两周放弃。
 
+License: MIT Opencode Code Skills
+
 ## 快速开始
 
 ### 你有哪些 skill？
@@ -14,6 +16,7 @@
 | [cybernetics](skills/cybernetics.md) | 建立反馈迭代系统，解决总是做不好的问题 |
 | [one-day-reset](skills/one-day-reset.md) | 用一天做深度复盘，重新规划人生方向 |
 | [gamification](skills/gamification.md) | 把人生变成游戏，解决坚持不下来问题 |
+| [refixlife](skills/refixlife.md) | 智能技能路由器，根据用户描述的问题状态自动匹配并触发对应的反思行动技能 |
 
 ### 快速判断该用哪个
 
@@ -23,6 +26,7 @@
 想彻底改变 → one-day-reset
 坚持太苦 → gamification
 迷茫我是谁 → mind-stage
+不确定用哪个 → refixlife (智能路由)
 ```
 
 ## 使用示例
@@ -94,12 +98,6 @@ identity-level → anti-vision → mind-stage → cybernetics → one-day-reset 
 ├── examples/                  # 使用示例
 │   ├──减肥案例.md
 │   └──学英语案例.md
-├── docs/                      # 原始文档
-│   └── BOOK_OVERVIEW.md
-└── candidates/                # 审计轨迹
-    ├── frameworks.md
-    ├── principles.md
-    └── ...
 ```
 
 ## 核心方法论
